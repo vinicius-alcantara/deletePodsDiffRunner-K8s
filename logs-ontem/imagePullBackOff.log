@@ -1,0 +1,73 @@
+Aplication Namespace: arbi-transactions-process-1171
+pod "staging-7849994d84-l2tc8" deleted
+##############################################
+Aplication Namespace: bacen-api-integration-1236
+pod "staging-5c685c74bf-4z9q9" deleted
+##############################################
+pod "staging-79b8b7cd4d-mhzj6" deleted
+##############################################
+Aplication Namespace: cambio-spread
+pod "tiller-deploy-869d5dd475-94vxp" deleted
+##############################################
+Aplication Namespace: comum-email
+Aplication Namespace: comum-integracao-cartao-acesso-842
+pod "tiller-deploy-855fcc74f8-nrhh4" deleted
+##############################################
+Aplication Namespace: core-connect-client-827
+pod "tiller-deploy-7b7d9bcd96-95srn" deleted
+##############################################
+Aplication Namespace: core-integrar-documento-assinatura-digital-lacuna-1233
+pod "staging-5b75dd464b-nxwsw" deleted
+##############################################
+Aplication Namespace: core-operacao-recompra-web-1291
+pod "staging-5b99495cdc-qd6g7" deleted
+##############################################
+pod "staging-69854dfbd5-n42xb" deleted
+##############################################
+Aplication Namespace: default
+pod "debug-container-5654c7b8dd-t2ch6" deleted
+##############################################
+Aplication Namespace: kibana-redirect-1109
+pod "staging-ff746558-tmtm4" deleted
+##############################################
+Aplication Namespace: m18-conta-digital-630
+pod "tiller-deploy-7dd4c7f5b7-dwrjj" deleted
+##############################################
+Aplication Namespace: poc-eureka-server-1300
+pod "staging-6f786d7c89-wt2pc" deleted
+##############################################
+Aplication Namespace: poc-simple-project-1022
+pod "tiller-deploy-648b468dbf-jxrb6" deleted
+##############################################
+Aplication Namespace: poc-sonar-1069
+pod "tiller-deploy-5759f484c-28wsq" deleted
+##############################################
+Aplication Namespace: poc-usuario-1303
+pod "staging-6cb6dfdc74-qhxjq" deleted
+##############################################
+Aplication Namespace: poc-zuul-1301
+pod "staging-59d65b7c98-jzxjj" deleted
+##############################################
+Aplication Namespace: projeto-vortx-1192
+pod "staging-64d4dd54b8-mnhzr" deleted
+##############################################
+Aplication Namespace: srm-integracao-experian-relatorio-pessoa-863
+pod "tiller-deploy-656d57f4bf-8gz8p" deleted
+##############################################
+Aplication Namespace: thperu-prestamos-web-779
+pod "tiller-deploy-5479c74ddb-hmh6q" deleted
+##############################################
+Aplication Namespace: trusthub-emprestimo-dashboard-662
+Aplication Namespace: trusthub-modelo-configurado-1208
+pod "staging-59b49cb4fc-9k5wg" deleted
+##############################################
+pod "staging-7d46958f75-nxw47" deleted
+##############################################
+Aplication Namespace: trusthub-schedule-representantes-email-1202
+pod "staging-8c86bdf76-hgrqt" deleted
+##############################################
+Aplication Namespace: trusthub-scheduler-representantes-email-1214
+pod "staging-5b7799864d-kmkpv" deleted
+##############################################
+pod "staging-66679d85f9-hxnr6" deleted
+##############################################

@@ -1,0 +1,190 @@
+Aplication Namespace: arbi-api-integration-1151
+pod "production-6964f8ffd8-rhslh" deleted
+##############################################
+Aplication Namespace: bacen-api-integration-1237
+pod "desenvolvimento-86bf9964f8-6zjcp" deleted
+##############################################
+Aplication Namespace: comum-assinatura-digital-lacuna-176
+pod "production-684d47c5b9-9qr4p" deleted
+##############################################
+pod "production-684d47c5b9-xchvr" deleted
+##############################################
+Aplication Namespace: comum-auth-840
+pod "staging-7cfcbd5cdf-lzqjl" deleted
+##############################################
+Aplication Namespace: comum-authentication-845
+pod "desenvolvimento-7dfd47f7f5-bldmc" deleted
+##############################################
+Aplication Namespace: comum-danfe-1118
+pod "staging-7b896b4d45-jxpnl" deleted
+##############################################
+Aplication Namespace: comum-exportador-dados-853
+pod "production-6db56c567f-zqqt7" deleted
+##############################################
+Aplication Namespace: comum-integracao-serasa-673
+pod "staging-57f7f6bb9-56c4j" deleted
+##############################################
+Aplication Namespace: comum-mensagem-665
+pod "production-684cfcb756-tw4tp" deleted
+##############################################
+Aplication Namespace: comum-notificacao-sistema-854
+pod "desenvolvimento-8674d57b55-c674w" deleted
+##############################################
+Aplication Namespace: comum-server-eureka1
+pod "production-f8ddf44ff-8wwlb" deleted
+##############################################
+Aplication Namespace: core-configuration-781
+pod "production-6b896bc45-grwvq" deleted
+##############################################
+Aplication Namespace: core-conta-grafica-cedente-web
+pod "production-6d57875486-zkpwl" deleted
+##############################################
+Aplication Namespace: core-correcoes-indexadas-web-1264
+pod "production-b4f9c7855-st8zw" deleted
+##############################################
+Aplication Namespace: core-documentation-820
+pod "desenvolvimento-5f76cdddc6-sb6gd" deleted
+##############################################
+pod "production-c67b74d46-6w5m2" deleted
+##############################################
+pod "production-c67b74d46-xs99m" deleted
+##############################################
+Aplication Namespace: core-geracao-contrato-1256
+pod "production-77f876bd4-9gxh6" deleted
+##############################################
+Aplication Namespace: core-security-711
+pod "staging-965457fd-7jp85" deleted
+##############################################
+Aplication Namespace: core-service-discovery-752
+pod "production-7f764967f9-bc4xz" deleted
+##############################################
+Aplication Namespace: core-single-registration-150
+pod "production-59f7d6d44b-j4jbj" deleted
+##############################################
+Aplication Namespace: core-single-registration-scheduler-1094
+pod "production-6bc4d6484c-4qzl6" deleted
+##############################################
+Aplication Namespace: digital-account-941
+pod "staging-799bfd6ff5-25ml5" deleted
+##############################################
+Aplication Namespace: easyinvest-api-integration-1156
+pod "staging-684db9b546-8kqgp" deleted
+##############################################
+Aplication Namespace: integration-order-invoice
+pod "staging-c44578b88-dvs8f" deleted
+##############################################
+Aplication Namespace: lacuna-api-integration-1164
+pod "production-6c89c5764c-h2pkd" deleted
+##############################################
+Aplication Namespace: m18-transferencia-574
+pod "staging-68747dd5ff-5lnjq" deleted
+##############################################
+Aplication Namespace: mongo-parse-to-sql-1161
+pod "production-74bcbc447c-txwl9" deleted
+##############################################
+Aplication Namespace: srm-api-netfactor-1283
+pod "desenvolvimento-6ccc4b58d5-svpxs" deleted
+##############################################
+pod "staging-f56d99dd4-jbr4s" deleted
+##############################################
+Aplication Namespace: srm-cambio-web-877
+pod "production-68f96b4449-792jx" deleted
+##############################################
+Aplication Namespace: srm-cancelamento-instrucoes-1121
+pod "production-5fdbd5786c-6l75l" deleted
+##############################################
+Aplication Namespace: srm-confirmacao-1091
+pod "production-84bfc44769-qkxdk" deleted
+##############################################
+Aplication Namespace: srm-confirmacao-web-1076
+pod "production-85d79579f6-dmmv6" deleted
+##############################################
+Aplication Namespace: srm-eureka2-851
+pod "production-8576d5d745-7gj2g" deleted
+##############################################
+Aplication Namespace: srm-homebanking-boletos-421
+pod "production-7cbfff65bb-x9hmf" deleted
+##############################################
+Aplication Namespace: srm-homebanking-parametrizacao-420
+pod "production-5c48464d86-mnmzn" deleted
+##############################################
+Aplication Namespace: srm-integracao-assinatura-digital-trusthub
+pod "desenvolvimento-59c759596-kb9t8" deleted
+##############################################
+Aplication Namespace: srm-integracao-garantia-trusthub
+pod "production-5f7954b999-sxtx7" deleted
+##############################################
+Aplication Namespace: srm-integracao-m18-395
+pod "production-b74d6dbd4-d6rvc" deleted
+##############################################
+pod "production-b74d6dbd4-j8lmc" deleted
+##############################################
+Aplication Namespace: srm-integracao-m18-conta-consultas
+pod "staging-77cc5876d6-jn7wr" deleted
+##############################################
+Aplication Namespace: srm-integracao-m18-emprestimo-parcelas
+pod "staging-86bb8865cc-tl4fq" deleted
+##############################################
+Aplication Namespace: srm-mediator-custody-1051
+pod "desenvolvimento-5b8c66c489-tv9dp" deleted
+##############################################
+pod "staging-df787d5f6-lph28" deleted
+##############################################
+Aplication Namespace: srm-operacoes-financeiras-cliente-1097
+pod "production-64946969db-k2hjp" deleted
+##############################################
+Aplication Namespace: srm-painel-gestao-486
+pod "production-8bb79d786-k7nx7" deleted
+##############################################
+Aplication Namespace: srm-paulista-processador-1207
+pod "production-55556b5b74-2f7wf" deleted
+##############################################
+Aplication Namespace: srm-processador-arquivo-recebivel-333
+pod "staging-654fc6c4d6-7bflr" deleted
+##############################################
+Aplication Namespace: srm-processador-persiste-dados-nfe
+pod "staging-55759679c-9x27b" deleted
+##############################################
+Aplication Namespace: srm-reader-csv-1073
+pod "desenvolvimento-7fc46464bd-965cp" deleted
+##############################################
+Aplication Namespace: srm-remessa-processador-layout-1178
+pod "production-5658c68487-4rs9z" deleted
+##############################################
+Aplication Namespace: srm-remessa-receiver-1113
+pod "production-68775c788c-rwxcc" deleted
+##############################################
+Aplication Namespace: srm-service-config-1093
+pod "production-5fbc6ff68d-d6sb5" deleted
+##############################################
+Aplication Namespace: srm-vortx-integracao-assinatura-digital-sigma-1128
+pod "production-856dd9dbd8-85nkb" deleted
+##############################################
+Aplication Namespace: srm-web-homebanking-110
+pod "production-5fb6bd8c54-pvl6v" deleted
+##############################################
+Aplication Namespace: th-web-proxy1-995
+pod "production-87cf86dbf-lps8j" deleted
+##############################################
+Aplication Namespace: trust-new-lp-969
+pod "production-59d9f48c4b-sdxmj" deleted
+##############################################
+Aplication Namespace: trusthub-service-config-1219
+pod "production-5b95bc486d-gnmzn" deleted
+##############################################
+Aplication Namespace: trusthub-tracking-link-1175
+pod "production-d9df748fb-dcwng" deleted
+##############################################
+Aplication Namespace: trustpay-web-750
+pod "production-74bf6684d-d79c4" deleted
+##############################################
+Aplication Namespace: vadu-api-integration-1167
+pod "production-5b755689fd-69lqx" deleted
+##############################################
+pod "production-5b755689fd-p2vqg" deleted
+##############################################
+Aplication Namespace: volume-operacao-service-904
+pod "production-64b4dcb74f-5wmmw" deleted
+##############################################
+pod "production-64b4dcb74f-vv845" deleted
+##############################################

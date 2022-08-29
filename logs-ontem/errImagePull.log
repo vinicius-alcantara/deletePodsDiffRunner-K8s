@@ -1,0 +1,23 @@
+Aplication Namespace: bacen-api-integration-1236
+pod "staging-5c685c74bf-tf66s" deleted
+##############################################
+Aplication Namespace: cambio-spread
+pod "tiller-deploy-869d5dd475-dw5hx" deleted
+##############################################
+Aplication Namespace: comum-email
+Aplication Namespace: comum-integracao-cartao-acesso-842
+pod "tiller-deploy-855fcc74f8-mssmj" deleted
+##############################################
+Aplication Namespace: core-connect-client-827
+pod "tiller-deploy-7b7d9bcd96-8mqkx" deleted
+##############################################
+Aplication Namespace: core-operacao-recompra-web-1291
+Aplication Namespace: kibana-redirect-1109
+pod "staging-ff746558-xd4vx" deleted
+##############################################
+Aplication Namespace: trusthub-emprestimo-dashboard-662
+pod "tiller-deploy-d7c9bb79f-mt52l" deleted
+##############################################
+Aplication Namespace: trusthub-schedule-representantes-email-1202
+pod "staging-6c8f7d8c97-pjcxx" deleted
+##############################################

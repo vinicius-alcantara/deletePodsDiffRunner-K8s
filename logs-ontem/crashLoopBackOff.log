@@ -1,0 +1,323 @@
+Aplication Namespace: cattle-system
+pod "cattle-cluster-agent-554c4ff8d5-hx9vb" deleted
+##############################################
+pod "cattle-node-agent-28n57" deleted
+##############################################
+pod "cattle-node-agent-4f4x8" deleted
+##############################################
+pod "cattle-node-agent-4tj98" deleted
+##############################################
+pod "cattle-node-agent-5hmbl" deleted
+##############################################
+pod "cattle-node-agent-6ccl6" deleted
+##############################################
+pod "cattle-node-agent-6g7z2" deleted
+##############################################
+pod "cattle-node-agent-6hqvl" deleted
+##############################################
+pod "cattle-node-agent-772wm" deleted
+##############################################
+pod "cattle-node-agent-7cdnf" deleted
+##############################################
+pod "cattle-node-agent-7mtlt" deleted
+##############################################
+pod "cattle-node-agent-7ntx6" deleted
+##############################################
+pod "cattle-node-agent-7sdsk" deleted
+##############################################
+pod "cattle-node-agent-7wph7" deleted
+##############################################
+pod "cattle-node-agent-bqtrq" deleted
+##############################################
+pod "cattle-node-agent-cw7wn" deleted
+##############################################
+pod "cattle-node-agent-d8gw9" deleted
+##############################################
+pod "cattle-node-agent-dgkvt" deleted
+##############################################
+pod "cattle-node-agent-f687p" deleted
+##############################################
+pod "cattle-node-agent-ft8mg" deleted
+##############################################
+pod "cattle-node-agent-g8m2n" deleted
+##############################################
+pod "cattle-node-agent-gx6t4" deleted
+##############################################
+pod "cattle-node-agent-hclh8" deleted
+##############################################
+pod "cattle-node-agent-hpsp9" deleted
+##############################################
+pod "cattle-node-agent-hvrcz" deleted
+##############################################
+pod "cattle-node-agent-jqbrj" deleted
+##############################################
+pod "cattle-node-agent-k68zd" deleted
+##############################################
+pod "cattle-node-agent-klqtr" deleted
+##############################################
+pod "cattle-node-agent-l7xj2" deleted
+##############################################
+pod "cattle-node-agent-l8pq9" deleted
+##############################################
+pod "cattle-node-agent-m6bn9" deleted
+##############################################
+pod "cattle-node-agent-m7k5l" deleted
+##############################################
+pod "cattle-node-agent-mmd7c" deleted
+##############################################
+pod "cattle-node-agent-n5kjb" deleted
+##############################################
+pod "cattle-node-agent-ns24q" deleted
+##############################################
+pod "cattle-node-agent-pmsrl" deleted
+##############################################
+pod "cattle-node-agent-qbjqx" deleted
+##############################################
+pod "cattle-node-agent-qls8t" deleted
+##############################################
+pod "cattle-node-agent-qp44c" deleted
+##############################################
+pod "cattle-node-agent-qv55r" deleted
+##############################################
+pod "cattle-node-agent-qvl6l" deleted
+##############################################
+pod "cattle-node-agent-sggds" deleted
+##############################################
+pod "cattle-node-agent-sxc9b" deleted
+##############################################
+pod "cattle-node-agent-vpvn5" deleted
+##############################################
+pod "cattle-node-agent-w5nzq" deleted
+##############################################
+pod "cattle-node-agent-wmwj7" deleted
+##############################################
+pod "cattle-node-agent-x9gwg" deleted
+##############################################
+pod "cattle-node-agent-xdr69" deleted
+##############################################
+pod "cattle-node-agent-xtnm9" deleted
+##############################################
+pod "cattle-node-agent-xxrjx" deleted
+##############################################
+pod "cattle-node-agent-zglg2" deleted
+##############################################
+Aplication Namespace: comum-auth-th-1027
+pod "staging-5c9f5f6df8-dwr87" deleted
+##############################################
+Aplication Namespace: comum-authentication-845
+pod "staging-7f79cf6698-9tdzv" deleted
+##############################################
+Aplication Namespace: comum-config-git
+pod "desenvolvimento-cfbc74966-8hf4m" deleted
+##############################################
+Aplication Namespace: comum-consult-economic-group-1007
+pod "staging-695b968dd6-ggtnd" deleted
+##############################################
+Aplication Namespace: comum-exportador-dados-853
+pod "staging-6f98cccdb9-2whmx" deleted
+##############################################
+Aplication Namespace: comum-integracao-serasa-673
+pod "staging-5559d9df8d-spqnb" deleted
+##############################################
+pod "staging-57f7f6bb9-xk7rd" deleted
+##############################################
+Aplication Namespace: comum-zipkin-server
+pod "desenvolvimento-77dc598f9c-79svt" deleted
+##############################################
+Aplication Namespace: core-cadastro-licenciados-1262
+pod "desenvolvimento-7fb5cbc8-gg7fh" deleted
+##############################################
+Aplication Namespace: core-configuration-781
+pod "staging-88948947b-x8tsh" deleted
+##############################################
+Aplication Namespace: core-fop-1092
+pod "tiller-deploy-6bbf59486-hxg8n" deleted
+##############################################
+Aplication Namespace: core-lacuna-retorno-processador-1173
+pod "tiller-deploy-5686658dc8-s74kc" deleted
+##############################################
+Aplication Namespace: core-notificacao-evento-produtor-1295
+pod "staging-5585656b44-xjzmt" deleted
+##############################################
+Aplication Namespace: core-open-account-api-654
+pod "desenvolvimento-76f5c798fc-llnnt" deleted
+##############################################
+Aplication Namespace: core-open-account-composite-1116
+pod "desenvolvimento-6c86ddd57f-drmxg" deleted
+##############################################
+pod "staging-6bb59b854d-k8twh" deleted
+##############################################
+Aplication Namespace: core-operacao-lancamento-web-1265
+pod "staging-84c6495f4c-9mpzq" deleted
+##############################################
+Aplication Namespace: core-operacao-recompra-pendencia-1312
+pod "staging-7c598d7c96-wgcj7" deleted
+##############################################
+Aplication Namespace: core-pendencia-1331
+pod "staging-7486974f4b-hdb27" deleted
+##############################################
+Aplication Namespace: core-product-parameter-management-437
+pod "desenvolvimento-755b9c79c4-6hdnn" deleted
+##############################################
+Aplication Namespace: core-sincronismo-netfactor-sigma-1327
+pod "staging-576d95d947-sd4wr" deleted
+##############################################
+Aplication Namespace: core-single-registration-scheduler-1094
+pod "desenvolvimento-664494768f-7tq97" deleted
+##############################################
+Aplication Namespace: digital-account-941
+pod "staging-799bfd6ff5-nzr8n" deleted
+##############################################
+Aplication Namespace: lacuna-api-integration-trusthub-1195
+pod "desenvolvimento-6ff8699df9-7hw7c" deleted
+##############################################
+pod "desenvolvimento-7cbd776f7-ns8vk" deleted
+##############################################
+Aplication Namespace: m18-cadastro-th-616
+pod "staging-546bf8c9fd-6dgr2" deleted
+##############################################
+Aplication Namespace: m18-cpd-processador-transacao-558
+pod "staging-848845ffbd-fbn92" deleted
+##############################################
+pod "staging-d47d5cf-ggqxm" deleted
+##############################################
+Aplication Namespace: m18-cpd-transferencia-doc-ted-568
+pod "staging-c94dd4dff-lft5m" deleted
+##############################################
+Aplication Namespace: m18-pagamento-boleto-th-1193
+pod "staging-5f7b8565ff-dts4f" deleted
+##############################################
+pod "staging-5fb5887df4-cftqg" deleted
+##############################################
+Aplication Namespace: m18-transferencia-574
+pod "staging-c46df67fb-mvtlm" deleted
+##############################################
+pod "tiller-deploy-85f76c767b-6lqhm" deleted
+##############################################
+Aplication Namespace: m18-transferencia-th-681
+pod "staging-5cc4568b79-t8qcm" deleted
+##############################################
+pod "staging-74ccf4d9d6-stq9f" deleted
+##############################################
+Aplication Namespace: monitoring
+pod "monitoring3-kube-state-metrics-857754c568-nd5mm" deleted
+##############################################
+Aplication Namespace: onboarding-guilherme-1215
+pod "staging-556b8ffddc-m4njz" deleted
+##############################################
+pod "staging-7967664dcb-9dptp" deleted
+##############################################
+Aplication Namespace: srm-acesso-card-369
+pod "desenvolvimento-b66c989db-dk44b" deleted
+##############################################
+Aplication Namespace: srm-api-netfactor-1283
+pod "staging-f56d99dd4-b9sz5" deleted
+##############################################
+Aplication Namespace: srm-app-client-api-1059
+pod "desenvolvimento-64dfbbd69-pmrg5" deleted
+##############################################
+Aplication Namespace: srm-controlador-credito-pagamento-1114
+pod "staging-7fb4695747-vpsc4" deleted
+##############################################
+Aplication Namespace: srm-easy-email-1222
+pod "staging-77746cbd6b-h9j88" deleted
+##############################################
+Aplication Namespace: srm-integracao-instrucoes-1228
+pod "staging-6f78969cf8-j6ppz" deleted
+##############################################
+Aplication Namespace: srm-login-app
+pod "staging-d4f46c69f-tn227" deleted
+##############################################
+Aplication Namespace: srm-login-homebanking-944
+pod "desenvolvimento-c8ffd7db8-xbzvg" deleted
+##############################################
+Aplication Namespace: srm-operacao-465
+pod "staging-565c98d79-5k92w" deleted
+##############################################
+pod "staging-88bdb4fbb-q8fj6" deleted
+##############################################
+Aplication Namespace: srm-process-chargeback-trusthub
+pod "desenvolvimento-8468978fb8-vqdfz" deleted
+##############################################
+pod "staging-58b5b95794-8765s" deleted
+##############################################
+Aplication Namespace: srm-remessa-processador-layout-1178
+pod "desenvolvimento-7556679f5f-wbkxs" deleted
+##############################################
+Aplication Namespace: srm-remessa-securitizacao-1217
+pod "desenvolvimento-7857879bd4-d5zjr" deleted
+##############################################
+Aplication Namespace: srm-vortx-integration-987
+pod "staging-5494f947b9-c9tkq" deleted
+##############################################
+Aplication Namespace: srm-vortx-processor-schedule-1198
+pod "desenvolvimento-657745744b-zhc6v" deleted
+##############################################
+Aplication Namespace: srm-web-proxy
+pod "staging-85d6d97c86-jb2x8" deleted
+##############################################
+Aplication Namespace: srm-web
+pod "preprod-bb4d5df7c-c2m72" deleted
+##############################################
+Aplication Namespace: teste-ochikubo-2-1250
+pod "staging-7467d87d95-bhcq9" deleted
+##############################################
+Aplication Namespace: th-web-proxy1-995
+pod "desenvolvimento-574d47cfb9-hkw74" deleted
+##############################################
+Aplication Namespace: thperu-integracao-experian-192
+pod "staging-7f54786fdf-z7g89" deleted
+##############################################
+Aplication Namespace: trust-conciliation-data-1003
+pod "staging-d974949f-lg476" deleted
+##############################################
+Aplication Namespace: trust-new-lp-969
+Aplication Namespace: trusthub-comum-bases-cadastrais-714
+pod "staging-559b67dfc9-qdqj8" deleted
+##############################################
+pod "staging-7c54f69894-h772c" deleted
+##############################################
+Aplication Namespace: trusthub-comum-integracao-sigma-773
+pod "staging-58ccbbcbd8-cl2n8" deleted
+##############################################
+pod "staging-7df56cb87f-m55kh" deleted
+##############################################
+Aplication Namespace: trusthub-eureka-server-1300
+pod "staging-8599d6464-lngff" deleted
+##############################################
+Aplication Namespace: trusthub-eureka2
+pod "preprod-5c6cf669bd-6h7g7" deleted
+##############################################
+Aplication Namespace: trusthub-franquias-nginx
+pod "staging-78c5d69566-sqg22" deleted
+##############################################
+Aplication Namespace: trusthub-nota-registrada-1183
+pod "staging-ddbf66cb-knm9v" deleted
+##############################################
+Aplication Namespace: trusthub-orquestrador-600
+pod "staging-64b9b88885-9bgqz" deleted
+##############################################
+pod "staging-77f6f9b7b6-gz8kp" deleted
+##############################################
+Aplication Namespace: trusthub-plataforma-representantes-1247
+pod "staging-5848c88b9b-jrvrq" deleted
+##############################################
+Aplication Namespace: trusthub-replicar-parametros-thdup-1271
+pod "staging-679497ccb5-l8zlh" deleted
+##############################################
+Aplication Namespace: trusthub-scheduler-representantes-email-1227
+pod "staging-664c6b8465-zqt45" deleted
+##############################################
+Aplication Namespace: trusthub-service-email-1232
+pod "desenvolvimento-56d8879f7f-zzx2n" deleted
+##############################################
+pod "review-ssu-192-orxp8y-68cf645876-jsfkd" deleted
+##############################################
+pod "staging-5c6f5c78b-bq74q" deleted
+##############################################
+Aplication Namespace: trusthub-templatejwt-filter-1282
+pod "staging-6955dd8575-jtq2m" deleted
+##############################################
+Aplication Namespace: wefin-trustee-cessao-titulos-integracao-1322
+pod "tiller-deploy-5486cf666f-lmc69" deleted
+##############################################

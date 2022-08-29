@@ -1,0 +1,57 @@
+Aplication Namespace: cattle-system
+pod "cattle-cluster-agent-554c4ff8d5-wr2zm" deleted
+##############################################
+pod "cattle-node-agent-2gkkk" deleted
+##############################################
+pod "cattle-node-agent-48b4b" deleted
+##############################################
+pod "cattle-node-agent-4qh45" deleted
+##############################################
+pod "cattle-node-agent-569dd" deleted
+##############################################
+pod "cattle-node-agent-5rm96" deleted
+##############################################
+pod "cattle-node-agent-6gsr5" deleted
+##############################################
+pod "cattle-node-agent-6pttx" deleted
+##############################################
+pod "cattle-node-agent-79pr5" deleted
+##############################################
+pod "cattle-node-agent-bz5rf" deleted
+##############################################
+pod "cattle-node-agent-c4f6h" deleted
+##############################################
+pod "cattle-node-agent-c557j" deleted
+##############################################
+pod "cattle-node-agent-dvrrb" deleted
+##############################################
+pod "cattle-node-agent-fmt4t" deleted
+##############################################
+pod "cattle-node-agent-j6vd2" deleted
+##############################################
+pod "cattle-node-agent-lm5kg" deleted
+##############################################
+pod "cattle-node-agent-njjhl" deleted
+##############################################
+pod "cattle-node-agent-nqrn9" deleted
+##############################################
+pod "cattle-node-agent-pzfs9" deleted
+##############################################
+pod "cattle-node-agent-qxjxq" deleted
+##############################################
+pod "cattle-node-agent-tkv5t" deleted
+##############################################
+pod "cattle-node-agent-tp8nn" deleted
+##############################################
+pod "cattle-node-agent-x79t5" deleted
+##############################################
+Aplication Namespace: kube-system
+pod "create-registry-user-secret-1655117100-rcxf6" deleted
+##############################################
+Aplication Namespace: lacuna-api-integration-trusthub-1195
+Aplication Namespace: m18-cadastro-th-616
+Aplication Namespace: m18-cpd-transferencia-doc-ted-568
+pod "staging-7bf66d9c69-bnntm" deleted
+##############################################
+Aplication Namespace: m18-pagamento-boleto-th-1193
+Aplication Namespace: m18-transferencia-th-681
